@@ -14,8 +14,6 @@ import seaborn as sns
 
 """# Load Data"""
 
-!pip install openpyxl
-
 import gdown
 
 # Link unduhan langsung
